@@ -1,0 +1,27 @@
+#catergorybox{
+    text-align: left;
+    justify-content: left;
+    font-size: 18px;
+    margin-left: 5%;
+    margin-top: 5%;
+    
+}
+.cat:hover{
+  color: gray;
+  cursor: pointer;
+}
+
+.showarrow{
+  display: block;
+}
+.noarrow{
+    display: none;
+}
+#all{
+    text-decoration: underline;
+}
+.checkk{
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
