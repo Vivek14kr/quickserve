@@ -1,2 +1,0 @@
-
-export const SELECT_PLANET = "SELECT_PLANET";
