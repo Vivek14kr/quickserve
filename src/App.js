@@ -4,7 +4,7 @@ import "./App.css";
 import { Route, Routes } from "react-router-dom";
 
 import { Home } from "./Components/Home";
-import { Fav } from "./Components/Fav";
+
 
 function App() {
   return (
