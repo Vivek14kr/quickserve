@@ -2,3 +2,16 @@ tr{
     border: 1px solid black;
 }
 
+.tableformat{
+    border: 1px solid black;
+    width: 50%;
+
+}
+
+.box{
+    background-color: black;
+    color: white;
+}
+#boxes{
+    display: flex;
+}
